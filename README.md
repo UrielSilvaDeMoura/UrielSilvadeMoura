@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando no uso de ferramentas **no-code** como Bubble 
 ### 🚀 Projetos Recentes
 
 1. **Automação de Geração e Envio de Relatórios Financeiros**  
-   Utilizando **Google Sheets**, **Looker Studio**, **Google Apps Script**, e **N8N**, criei uma solução de automação para gerar e enviar relatórios financeiros de forma eficiente. Este projeto está no meu portfólio GitHub, pronto para ser visualizado.
+   Utilizando **Google Sheets**, **Looker Studio**, **Google Apps Script**, e **N8N**, criei uma solução de automação para gerar e enviar relatórios financeiros de forma eficiente.
 
 2. **CRM Personalizado no Bitrix24 para ImobSeguros**  
    Desenvolvi diversas automações e personalizações no **Bitrix24** para a **ImobSeguros**, incluindo telefonia via VoIP, integrações com e-mail, central de solicitações, e migração de pipelines. Esses desenvolvimentos otimizam a gestão de seguros e processos internos.
@@ -60,7 +60,7 @@ Atualmente, estou me aprofundando no uso de ferramentas **no-code** como Bubble 
    Desenvolvi uma aplicação no **Bubble** integrada ao **Bitrix24** para gerenciar seguros, contratos, e sinistros de imobiliárias parceiras, tornando o processo mais ágil e centralizado.
 
 4. **CRM para Gestão de Decoração de Festas no Pipefy**  
-   Concluí o desenvolvimento de um CRM para uma empresa de decoração de festas, utilizando **Pipefy** para criar um fluxo de trabalho eficiente com geração de PDF, formulários e automações para orçamentos.
+   Concluí o desenvolvimento de um CRM para uma empresa de decoração de festas, utilizando **Pipefy** para criar um fluxo de trabalho eficiente com geração de PDF, formulários e automações para orçamentos. Este projeto está no meu portfólio GitHub, pronto para ser visualizado.
 
 ---
 
